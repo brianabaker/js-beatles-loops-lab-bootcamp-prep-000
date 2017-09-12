@@ -14,5 +14,5 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
     stuff.push(facts[i] + '!!!');
     i++;
   }
-  return stuff
+  return stuff;
 }
