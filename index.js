@@ -14,9 +14,9 @@ var facts = [
   "He hated the sound of his own voice"
 ];
   var stuff= [];
-  var i = 0; 
+  var i = 0;
   while (i < facts.length {
     stuff.push(facts + '!!!')
-  } 
-  return facts
+  }
+  return stuff
 }
