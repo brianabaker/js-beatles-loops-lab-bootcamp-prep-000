@@ -15,7 +15,7 @@ var facts = [
 ];
   var stuff= [];
   var i = 0;
-  while (i < facts.length) {
+  while (i < facts.length, i++) {
     stuff.push(facts[i] + '!!!')
   }
   return stuff
