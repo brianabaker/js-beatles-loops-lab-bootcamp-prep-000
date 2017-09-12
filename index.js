@@ -20,7 +20,7 @@ function iLoveTheBeatles(n){
   var amount= [];
   do {
     amount.push("I love the Beatles!");
-    i++
+    n++
   } while (n < 15);
   return amount;
 }
